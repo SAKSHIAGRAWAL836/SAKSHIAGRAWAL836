@@ -14,9 +14,9 @@ Building projects and learning in public!
 ---
 🚀 Tech Stack & Tools
 
-🛠 Languages: Python, Java
-☁ Cloud & DevOps: AWS
-🌐 Web Development: HTML5
+🛠 Languages: Python, Java <br>
+☁ Cloud & DevOps: AWS <br>
+🌐 Web Development: HTML5 <br>
 
 
 ---
