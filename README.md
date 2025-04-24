@@ -1,35 +1,39 @@
-💫 Hey there! I'm Sakshi 🚀
-
-Cloud Computing | DevOps | Python | Web Development
-Building projects and learning in public!
-
-💻 B.Tech CSE | Cloud Computing & DevOps Enthusiast
-
-📚 Currently learning DevOps, Python, and DSA in Public!
-
-🎯 Goal for 2025: Get a Cloud/DevOps Internship 🚀
-
-💡 Fun fact: I love automation & open-source projects!
-
----
-🚀 Tech Stack & Tools
-
-🛠 Languages: Python, Java <br>
-☁ Cloud & DevOps: AWS <br>
-🌐 Web Development: HTML5 <br>
-
+<h1 align="center">Hi there 👋, I'm Sakshi Agrawal</h1>
+<p align="center">
+  A curious mind passionate about Cloud ☁️ | DevOps 🔧 | Web Dev 🌐<br>
+  B.Tech CSE (Cloud Computing & Automation) @ VIT Bhopal
+</p>
 
 ---
 
+### 🔭 Current Focus:
+- 🚀 Exploring Cloud Computing & DevOps
+- 🌱 Learning Web Development and Python
+- 🎯 Building projects & prepping for internships
 
-🌎 Where to Find Me?
+### 📘 Education:
+- 🎓 B.Tech CSE (Cloud + Automation) | VIT Bhopal
+- 📍 Based in Indore, India 🇮🇳
 
-LinkedIn: [Your Profile]
+### 🛠️ Skills & Tools:
+- **Languages**: Python, HTML, CSS
+- **Cloud**: AWS (Cloud Practitioner in progress)
+- **DevOps**: Git, GitHub, CI/CD (learning)
+- **Tools**: VS Code
+- **Others**: Project management, documentation
 
-Medium Blog: [Your Blog]
+### 📂 My Projects:
+Check out my repositories for:
+- 💻 DSA programs in C++
+- ☁️ Cloud & Web mini-projects
+- 📚 Academic assignments and experiments
 
-
+### 🌐 Let's Connect!
+- 💼 [LinkedIn](www.linkedin.com/in/sakshiaagrawal)
+- 📫 Email: [sakshiagrawal836@gmail.com]
 
 ---
 
-📝 "Learning in public, building cool things, and making an impact!" 🚀
+*“Consistency beats talent when talent doesn't show up.”*
+
+Thanks for visiting! 😊
